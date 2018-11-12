@@ -1,4 +1,4 @@
-A program to simplify the assignment of a biology class. 
+A program to simplify a biology class assignment. 
 Finds the longest DNA sequence within a given random sequence, with error checkings, then finds longest gene.
 
 The procedures are as follows:

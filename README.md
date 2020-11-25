@@ -1,4 +1,4 @@
-A program to simplify a biology class assignment. 
+A program to simplify a bioinformatics class assignment. 
 Finds the longest common subsequence within a given random sequence, with error checkings, then finds longest gene that ultimately becomes an amino acid sequence.
 
 The procedures are as follows:
